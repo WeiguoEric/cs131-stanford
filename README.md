@@ -1,0 +1,2 @@
+#  CS 131 Computer Vision: Foundations and Applications
+This repo contains my solutions to coding assignments of [CS131](http://vision.stanford.edu/teaching/cs131_fall1617/) fall 16-17 offering of the Stanford University. 
